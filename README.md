@@ -1,5 +1,4 @@
 # SimpleAlert
----
 
 [![Carthage Compatibility](https://img.shields.io/badge/carthage-✓-f2a77e.svg?style=flat)](https://github.com/Carthage/Carthage/)
 [![Version](https://img.shields.io/cocoapods/v/SimpleAlert.svg?style=flat)](http://cocoadocs.org/docsets/SimpleAlert)
